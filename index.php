@@ -1,5 +1,5 @@
 <?php
 
-include_once("script.js");
+include_once("index.html");
 
 ?>
